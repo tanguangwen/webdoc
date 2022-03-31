@@ -4,6 +4,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/logo.png' }]
     ],
+    base:'/webdoc/',
     themeConfig: {
         nav:[
           { text: '枫叶云笔记', link: '/tecdoc/fynote/' ,
